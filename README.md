@@ -5,15 +5,6 @@ I’m passionate about pushing boundaries and love collaborating on creative / c
 
 ---
 
-## 🚀 Technologies
-
-I work with:
-
-- **Languages & frameworks**: TypeScript · Flutter · React · Golang · Python  
-- **UI / styling**: CSS,Tailwind CSS · Bootstrap  
-- **Other tools**: Git · Docker · CI/CD ·   
-
----
 
 ## 🔧 What I Do
 
@@ -22,6 +13,16 @@ I work with:
 - Prototype & iterate quickly using modern toolchains  
 - Champion clean, readable, and maintainable code  
 - Collaborate with cross-functional teams / stakeholders  
+
+---
+
+## 🚀 Technologies
+
+I work with:
+
+- **Languages & frameworks**: TypeScript · Flutter · React · Golang · Python  
+- **UI / styling**: CSS,Tailwind CSS · Bootstrap  
+- **Other tools**: Git · Docker · CI/CD ·   
 
 ---
 
