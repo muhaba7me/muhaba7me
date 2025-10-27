@@ -5,7 +5,6 @@ I’m passionate about pushing boundaries and love collaborating on creative / c
 
 ---
 
-
 ## 🔧 What I Do
 
 - Build mobile & web apps from idea to deployment  
@@ -18,11 +17,13 @@ I’m passionate about pushing boundaries and love collaborating on creative / c
 
 ## 🚀 Technologies
 
-I work with:
-
-- **Languages & frameworks**: TypeScript · Flutter · React · Golang · Python  
-- **UI / styling**: CSS,Tailwind CSS · Bootstrap  
-- **Other tools**: Git · Docker · CI/CD ·   
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/)  
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)  
+[![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)](https://golang.org/)  
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://python.org/)  
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 ---
 
@@ -40,6 +41,8 @@ Check out my GitHub repositories below.
 ## 📫 How to Reach Me
 
 - GitHub: [github.com/muhaba7me](https://github.com/muhaba7me)  
-- Upwork: [Click here](https://www.upwork.com/freelancers/~01d3cbac365ffc2240?mp_source=share)  
+- Upwork: [here](https://www.upwork.com/freelancers/~01d3cbac365ffc2240?mp_source=share)  
 
-Let connect :)
+
+
+ Let’s build something great together!
